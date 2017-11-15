@@ -4,7 +4,7 @@ This image contains a pre-built laravel application installed and running on an 
 
 There is a supporting YouTube video and blog post on Caylent How To deploy.
 
-##i Running
+## Running
 
 To simply run the container:
 
